@@ -1,3 +1,3 @@
 ## 🖼 Dashboard Preview
 
-![Dashboard Screenshot](Power BI 180DC.jpg)
+![Dashboard Screenshot](Power%20BI%20180DC.jpg)
